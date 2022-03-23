@@ -11,14 +11,14 @@ if has("termguicolors")
   endif
 endif
 
-"color atom-dark-256
+color atom-dark-256
 "color atom-dark
 "color molokai
 "color nord
 "color OceanicNext
 "color one
 "color PaperColor
-color tender
+"color tender
 
 set autoindent
 set visualbell
